@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Hi, I'm Vinícius Girão</p>
-
 ###
 
-<h2 align="center">Stats</h2>
+<h3 align="center">Stats</h3>
+
+###
 
 ###
 
