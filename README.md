@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="left">Hi, I'm Vinícius Girão</p>
 
-<!--
-**ViniciusGirao/ViniciusGirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="center">Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusGirao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Vin%C3%ADcius%20Gir%C3%A3o%20-%20%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ViniciusGirao&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ViniciusGirao/ViniciusGirao/output/snake.svg" alt="Snake animation" />
+
+###
