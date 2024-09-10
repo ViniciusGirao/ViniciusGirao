@@ -1,3 +1,11 @@
+<h3 align="center">About me</h3>
+
+###
+
+<p align="left">Hi! my name is Vinícius Girão, I'm 20 years old and I'm studying Software Engineering at the Catholic University of Brasília (UCB). <br><br>📚 I'm currently studying C language</p>
+
+###
+
 <p align="left">Hi, I'm Vinícius Girão</p>
 
 ###
