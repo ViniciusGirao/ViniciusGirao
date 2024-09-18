@@ -4,7 +4,7 @@
 
 <p align="left">Hi! my name is Vinícius Girão, I'm 20 years old and I'm studying Software Engineering at the Catholic University of Brasília (UCB). <br><br>📚 I'm currently learning C language</p>
 <div align="right">
-  <img height="300" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"  />
+  <img height="250" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusGirao&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusGirao" /> </p>
 
