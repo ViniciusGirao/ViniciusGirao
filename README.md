@@ -6,7 +6,11 @@
 <div align="right">
   <img height="200" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  />
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusGirao&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusGirao" /> </p>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-gir%C3%A3o-2249012b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgirao_o/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 ###
 
 ###
@@ -15,7 +19,6 @@
 
 ###
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusGirao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ViniciusGirao&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -23,11 +26,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ViniciusGirao/count.svg?"  />
-</div>
 
 ###
 
