@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Hi! my name is Vinícius Girão, I'm 20 years old and I'm studying Software Engineering at the Catholic University of Brasília (UCB). <br><br>📚 I'm currently learning C language</p>
+<p align="left">Hi! my name is Vinícius Girão, I'm 20 years old and I'm studying Software Engineering at the Catholic University of Brasília (UCB). <br><br>📚 I'm currently learning C language.</p>
+<p align="left">🎯  My goal is to learn other types of programming languages.</p>
+
 <div align="right">
   <img height="250" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"  />
 </div>
