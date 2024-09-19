@@ -22,6 +22,11 @@
 
 <h3 align="left">Learning 🖥️</h3>
 
+[![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+
+
 ###
 
 <h3 align="center">🔥GitHub Stats🔥</h3>
