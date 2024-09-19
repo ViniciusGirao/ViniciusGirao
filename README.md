@@ -6,12 +6,21 @@
 <div align="right">
   <img height="250" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"  />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusGirao&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusGirao" /> </p>
+
+###
+
+<h3 align="left">Connect with me 🌐</h3>
+
+###
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-gir%C3%A3o-2249012b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgirao_o/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusGirao&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusGirao" /> </p>
+
 ###
+
+<h3 align="left">Learning 🖥️</h3>
 
 ###
 
